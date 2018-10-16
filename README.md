@@ -1,5 +1,6 @@
 # SampleX 
 Capstone project
+Product Launch Date: TBD
 
 ## Project Proposal
 What is the idea behind SampleX? 
@@ -62,6 +63,7 @@ Benefits of the SampleX Application -
 
 web 1920
 
+## Libraries and APIs to be Used
 
 
 
