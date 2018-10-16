@@ -63,10 +63,10 @@ Benefits of the SampleX Application -
 
 web 1920
 
-![](images/FW1.png)
-![](images/FW2.png)
-![](images/FW3.png)
-![](images/FW4.png)
+![](imagess/FW1.png)
+![](imagess/FW2.png)
+![](imagess/FW3.png)
+![](imagess/FW4.png)
 
 ## Libraries and APIs to be Used
 
