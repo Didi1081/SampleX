@@ -57,3 +57,6 @@ Benefits of the SampleX Application -
 * Customers see new product applications and development from suppliers that can inspire innovation or solve problems. They have access to this information easily.
 * Easy to send feedback
 * Easy to collect feedback through data collection sheet
+
+## Rough Sketch of Final Product
+
