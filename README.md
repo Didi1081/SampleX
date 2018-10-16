@@ -1,6 +1,6 @@
-# SampleX
+# SampleX 
 Capstone project
-SampleX - 
+
 ## Project Proposal
 What is the idea behind SampleX? 
 
