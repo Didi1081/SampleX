@@ -1,7 +1,7 @@
 # SampleX
 Capstone project
 SampleX - 
-
+## Project Proposal
 What is the idea behind SampleX? 
 
 You can instantly order toilet paper, so why not samples? It is a systematic approach to sending and receiving samples for product development. 
