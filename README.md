@@ -10,7 +10,7 @@ This delivery method is specifically designed for sample parts to encourage fast
 
 The faster the customer has a product, the faster they can sell to consumers and the faster they set up ongoing bulk supply orders from suppliers. 
 
-Problem - 
+<strong> Problem - <strong>
 * Many engineers, scientists, researchers and product developers need to get a hold of samples made by suppliers to create products. This can be a lengthy process. Research and  interviews with customers show this can take anywhere from 3 weeks to 6 months and is a major problem to customers.
 
 * Majority of suppliers will send samples manually:
