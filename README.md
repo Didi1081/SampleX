@@ -1,5 +1,5 @@
 # SampleX 
-Capstone project
+Project
 Product Launch Date: TBD
 
 ## Project Proposal
