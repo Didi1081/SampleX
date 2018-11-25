@@ -27,7 +27,7 @@ Target -
     * PhillipsPlastics
     * SMC
     * 3M 
-    * ExxonMobil - Plastics/Adesives /new product & market development
+    * Exxon
     * Boston Scientific
     * And many more….
 
