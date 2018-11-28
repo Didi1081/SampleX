@@ -66,20 +66,20 @@ web 1920
 
 Login Page
 
-![](imagess/FW1.png)
+![](ReadME_img/FW1.png)
 
 Product Developer Page - Agreement
 
-![](imagess/FW2.png)
+![](ReadME_img/FW2.png)
 
 Product Developer Page - Shopping Cart
 
-![](imagess/FW3.png)
+![](ReadME_img/FW3.png)
 
 Product Developer Page - Checkout/Submission 
 
 
-![](imagess/FW4.png)
+![](ReadME_img/FW4.png)
 
 ## Built Utilizing
 * Bootstrap v4 - https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css 
