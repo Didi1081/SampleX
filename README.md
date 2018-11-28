@@ -5,22 +5,22 @@ Product Launch Date: TBD
 ## Project Proposal
 **What is the idea behind SampleX?**
 
-You can instantly order toilet paper, so why not samples? It is a systematic approach to sending and receiving samples for product development. 
+   You can instantly order toilet paper, so why not samples? It is a systematic approach to sending and receiving samples for    product development. 
 
-This delivery method is specifically designed for sample parts to encourage faster innovation and end product development.
+   This delivery method is specifically designed for sample parts to encourage faster innovation and end product development.
 
-The faster the customer has a product, the faster they can sell to consumers and the faster they set up ongoing bulk supply orders from suppliers. 
+   The faster the customer has a product, the faster they can sell to consumers and the faster they set up ongoing bulk supply    orders from suppliers. 
 
-Problem -
-* Many engineers, scientists, researchers and product developers need to get a hold of samples made by suppliers to create products. This can be a lengthy process. Research and  interviews with customers show this can take anywhere from 3 weeks to 6 months and is a major problem to customers.
+**Problem**
+* Many engineers, scientists, researchers and product developers need to get a hold of samples made by suppliers to      create  products. This can be a lengthy process. Research and  interviews with customers show this can take anywhere from 3 weeks      to 6 months and is a major problem to customers.
 
-* Majority of suppliers will send samples manually:
-    * Not much resources to deliver the samples to their customers
-    * No time to send out (ex 10,000 samples) and communicate with everyone
-    * Have admin mail out samples on top of stressful workload which can be forgotten
-    * Many emails back and forth that can get lost amongst other emails and action items
-    * Wrong samples set
-    * No samples sent resulting in a missed business opportunity as a customer seals the deal with a competitor.
+   * Majority of suppliers will send samples manually:
+       * Not much resources to deliver the samples to their customers
+       * No time to send out (ex 10,000 samples) and communicate with everyone
+       * Have admin mail out samples on top of stressful workload which can be forgotten
+       * Many emails back and forth that can get lost amongst other emails and action items
+       * Wrong samples set
+       * No samples sent resulting in a missed business opportunity as a customer seals the deal with a competitor.
 
 Target -
 * Divisions in chemical and manufacturing companies in the USA such as :
