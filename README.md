@@ -89,5 +89,39 @@ Product Developer Page - Checkout/Submission
 
 ## Case Study
 
+#### BACKGROUND
+   Currently, in Vs. 1.0, each item is manually entered and then shown in the shopping. The end user has to scroll down to        view all products. In the case we will look at the problems and solutions to improve the way products are generated in the    shopping cart (Iteration I) and improve the user search experience through interface (Iteration II). 
+
+
+#### 1.) Iteration I:
+   ##### RESEARCH & DISCOVERY 
+   ###### User Research
+   ###### Discovery
+
+
+
+
+
+
+#### 2.) Iteration II: Search Experience
+
+##### RESEARCH & DISCOVERY 
+
+###### User Research 
+
+   Interviews were conducted with potiental users to understand what they prioritize when searching for samples.
+
+   From user interviews and feedback, a few different use cases were discovered for search queries:
+```
+   User looking for any products by company
+   User looking for any products by grade
+   User looking for any products by material specifications
+   User looking for a certain type of product by technology
+   User looking for a specific product by exact match
+```
+
+###### Discovery
+There were no existing search filters, however users would like to filter by one attribute of a category at a time or select many attributes to give users the flexibilty to explore results they wanted with a range of products they could choose from. 
+
 
 
