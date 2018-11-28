@@ -3,12 +3,12 @@
 Vs 1.0 Deployment Date: TBD
 
 
-## Project Proposal
+## PROJECT PROPOSAL
 **What is the idea behind SampleX?**
 
    You can instantly order toilet paper, so why not samples? It is a systematic approach to sending and receiving samples for    product development. This delivery method is specifically designed for sample parts to encourage faster innovation and end    product development. The faster the customer has a product, the faster they can sell to consumers and the faster they setup    ongoing bulk supply orders from suppliers. 
 
-**Problem**
+**PROBLEM**
 * Many engineers, scientists, researchers and product developers need to get a hold of samples made by suppliers to      create  products. This can be a lengthy process. Research and  interviews with customers show this can take anywhere from 3 weeks      to 6 months and is a major problem to customers.
 
    * Majority of suppliers will send samples manually:
@@ -19,7 +19,7 @@ Vs 1.0 Deployment Date: TBD
        * Wrong samples set
        * No samples sent resulting in a missed business opportunity as a customer seals the deal with a competitor.
 
-**Target**
+**TARGET**
    * Divisions in chemical and manufacturing companies in the USA such as :
        * PhillipsPlastics
        * SMC
@@ -29,7 +29,7 @@ Vs 1.0 Deployment Date: TBD
        * And many more….
 
 
-**Solution**
+**SOLUTION**
    * A shopping cart for samples (updated by the supplier - No coding experience with user friendly design)
    * Automatic Instant notification to customer email or text that the order has been placed
    * Automatic Instant email to supplier that a customer ordered a sample and what type of sample needed
@@ -42,7 +42,7 @@ Vs 1.0 Deployment Date: TBD
    * Automatic feedback sent to customer after they received the samples
    * Feedback from customers that go directly to the supplier's database (need different specs/color/liked it…user experience)
 
-**Benefits of the SampleX Application**
+**BENDFITS**
 
    * Increase lead time
    * Professional 
@@ -56,7 +56,7 @@ Vs 1.0 Deployment Date: TBD
    * Easy to send feedback
    * Easy to collect feedback through data collection sheet
 
-## Rough Sketch of Final Product
+## ROUGH SKETCH
 
 web 1920
 
@@ -77,15 +77,15 @@ Product Developer Page - Checkout/Submission
 
 ![](ReadME_img/FW4.png)
 
-### Built Utilizing
+## BUILT UTILIZING
 * Bootstrap v4 - https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css 
 * Material Design for Bootstrap 4 - https://mdbootstrap.com/material-design-for-bootstrap/ 
 * jQuery 3.x - http://code.jquery.com/jquery-3.3.1.min.js
 
 
-### CASE STUDY
+## CASE STUDY
 
-#### BACKGROUND Case Study
+#### BACKGROUND
    Currently, in Vs. 1.0, each item is manually entered and then shown in the shopping. The end user has to scroll down to        view all products. In the case we will look at the problems and solutions to improve the way products are generated in the    shopping cart (Iteration I) and improve the user search experience through interface (Iteration II). 
 
 
