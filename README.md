@@ -69,6 +69,9 @@ web 1920
 ![](imagess/FW4.png)
 
 ## Built Utilizing
+Bootstrap v4 - https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css 
+Material Design for Bootstrap 4 - https://mdbootstrap.com/material-design-for-bootstrap/ 
+jQuery 3.x - http://code.jquery.com/jquery-3.3.1.min.js
 
 
 ## Case Study
