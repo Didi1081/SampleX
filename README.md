@@ -1,6 +1,7 @@
 # SampleX 
-Vs 1.0
-Project Deployment Date: TBD
+
+Vs 1.0 Deployment Date: TBD
+
 
 ## Project Proposal
 **What is the idea behind SampleX?**
