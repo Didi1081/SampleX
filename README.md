@@ -1,5 +1,4 @@
 # SampleX 
-University of Texas - Austin
 Vs 1.0
 Project Deployment Date: TBD
 
