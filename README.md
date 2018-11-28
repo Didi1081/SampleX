@@ -22,49 +22,54 @@ Product Launch Date: TBD
        * Wrong samples set
        * No samples sent resulting in a missed business opportunity as a customer seals the deal with a competitor.
 
-Target -
-* Divisions in chemical and manufacturing companies in the USA such as :
-    * PhillipsPlastics
-    * SMC
-    * 3M 
-    * Exxon
-    * Boston Scientific
-    * And many more….
+**Target**
+   * Divisions in chemical and manufacturing companies in the USA such as :
+       * PhillipsPlastics
+       * SMC
+       * 3M 
+       * Exxon
+       * Boston Scientific
+       * And many more….
 
 
-Solution - 
-* A shopping cart for samples (updated by the supplier - No coding experience with user friendly design)
-* Automatic Instant notification to customer email or text that the order has been placed
-* Automatic Instant email to supplier that a customer ordered a sample and what type of sample needed
-* A place where supplier can send/update tracking info easily
-* The tracking info is sent to the supplier via email
-* Very user friendly design
-* Collaborative with user input that is instantly updated  (later stages)
-* A bot to answer questions about sample set (updated by supplier - No coding experience as it is user friendly) 
-* A page that suppliers can send a mass email (video/text new product update/applications)  to mailing list (email customers or customer's intranet) 
-* Automatic feedback sent to customer after they received the samples
-* Feedback from customers that go directly to the supplier's database (need different specs/color/liked it…user experience)
+**Solution**
+   * A shopping cart for samples (updated by the supplier - No coding experience with user friendly design)
+   * Automatic Instant notification to customer email or text that the order has been placed
+   * Automatic Instant email to supplier that a customer ordered a sample and what type of sample needed
+   * A place where supplier can send/update tracking info easily
+   * The tracking info is sent to the supplier via email
+   * Very user friendly design
+   * Collaborative with user input that is instantly updated  (later stages)
+   * A bot to answer questions about sample set (updated by supplier - No coding experience as it is user friendly) 
+   * A page that suppliers can send a mass email (video/text new product update/applications)  to mailing list (email customers or customer's intranet) 
+   * Automatic feedback sent to customer after they received the samples
+   * Feedback from customers that go directly to the supplier's database (need different specs/color/liked it…user experience)
 
-Benefits of the SampleX Application -  
+**Benefits of the SampleX Application**
 
-* Increase lead time
-* Professional 
-* Automated 
-* Less customer emails/calls/meetings
-    * Bot is programmed to answer majority of questions. 
-        *If not a link sent to a live person (later stages)
-        *Frequent question answer page created
-    * Customer can just order what they need and see the tracking
-* Customers see new product applications and development from suppliers that can inspire innovation or solve problems. They have access to this information easily.
-* Easy to send feedback
-* Easy to collect feedback through data collection sheet
+   * Increase lead time
+   * Professional 
+   * Automated 
+   * Less customer emails/calls/meetings
+       * Bot is programmed to answer majority of questions. 
+           *If not a link sent to a live person (later stages)
+           *Frequent question answer page created
+       * Customer can just order what they need and see the tracking
+   * Customers see new product applications and development from suppliers that can inspire innovation or solve problems. They have access to this information easily.
+   * Easy to send feedback
+   * Easy to collect feedback through data collection sheet
 
 ## Rough Sketch of Final Product
 
 web 1920
 
 ![](imagess/FW1.png)
+
+Login in page
+
 ![](imagess/FW2.png)
+
+
 ![](imagess/FW3.png)
 ![](imagess/FW4.png)
 
