@@ -77,15 +77,15 @@ Product Developer Page - Checkout/Submission
 
 ![](ReadME_img/FW4.png)
 
-## Built Utilizing
+### Built Utilizing
 * Bootstrap v4 - https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css 
 * Material Design for Bootstrap 4 - https://mdbootstrap.com/material-design-for-bootstrap/ 
 * jQuery 3.x - http://code.jquery.com/jquery-3.3.1.min.js
 
 
-## Case Study
+### CASE STUDY
 
-#### BACKGROUND
+#### BACKGROUND Case Study
    Currently, in Vs. 1.0, each item is manually entered and then shown in the shopping. The end user has to scroll down to        view all products. In the case we will look at the problems and solutions to improve the way products are generated in the    shopping cart (Iteration I) and improve the user search experience through interface (Iteration II). 
 
 
