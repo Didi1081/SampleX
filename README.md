@@ -42,7 +42,7 @@ Vs 1.0 Deployment Date: TBD
    * Automatic feedback sent to customer after they received the samples
    * Feedback from customers that go directly to the supplier's database (need different specs/color/liked it…user experience)
 
-**BENDFITS**
+**BENEFITS**
 
    * Increase lead time
    * Professional 
@@ -86,16 +86,26 @@ Product Developer Page - Checkout/Submission
 ## CASE STUDY
 
 #### BACKGROUND
-   Currently, in Vs. 1.0, each item is manually entered and then shown in the shopping. The end user has to scroll down to        view all products. In the case we will look at the problems and solutions to improve the way products are generated in the    shopping cart (Iteration I) and improve the user search experience through interface (Iteration II). 
+   Currently, in Vs. 1.0, each item is manually entered and then shown in the shopping area. The end user has to scroll down to view all products. In the case we will look at the problems and solutions to improve the way products are generated in the  shopping cart (Iteration I) and improve the user search experience through interface (Iteration II). 
 
 
 #### 1.) Iteration I:
-   ##### RESEARCH & DISCOVERY 
-   ###### User Research
-   ###### Discovery
 
+##### RESEARCH & DISCOVERY 
 
+###### User Research
 
+Interviews were conducted with potiental users to understand what they want displayed when searching for samples.
+
+From user interviews and feedback, a few different use cases were discovered for displayed results:
+   
+   ```
+   User desires more producs from many different companies displayed
+   
+   ```
+
+###### Discovery
+Currently, there are only 6 products generated on the app. 
 
 
 
