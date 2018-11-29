@@ -91,7 +91,7 @@ Product Developer Page - Checkout/Submission
 
 #### 1.) Iteration I:
 
-##### RESEARCH & DISCOVERY 
+##### * RESEARCH & DISCOVERY 
 
 ###### User Research
 
@@ -107,13 +107,13 @@ From user interviews and feedback, a few different use cases were discovered for
 ###### Discovery
 Currently, there are only 6 products generated on the app. This does not give Engineers and product developers enough information or options. In order to create a marketplace many different companies will need to participate. Engineers and product developers need a dynamic array of sample options to choose from. 
 
-##### DESIGN EXPLORATION
+##### * DESIGN EXPLORATION
 
-##### FINAL SOLUTION
+##### * FINAL SOLUTION
 
 #### 2.) Iteration II: Search Experience
 
-##### RESEARCH & DISCOVERY 
+##### * RESEARCH & DISCOVERY 
 
 ###### User Research 
 
@@ -131,7 +131,7 @@ Currently, there are only 6 products generated on the app. This does not give En
 ###### Discovery
 There were no existing search filters, however users would like to filter by one attribute of a category at a time or select many attributes to give users the flexibilty to explore results they wanted with a range of products they could choose from. 
 
-##### DESIGN EXPLORATION
+##### * DESIGN EXPLORATION
 
-##### FINAL SOLUTION
+##### * FINAL SOLUTION
 
