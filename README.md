@@ -105,7 +105,7 @@ From user interviews and feedback, a few different use cases were discovered for
    ```
 
 ###### Discovery
-Currently, there are only 6 products generated on the app. 
+Currently, there are only 6 products generated on the app. In order to create a marketplace many different companies will need to participate. 
 
 
 
