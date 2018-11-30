@@ -5,8 +5,8 @@ Vs 1.0 Deployment Date: TBD
 
 ## PROJECT PROPOSAL
 
-A SAMPLE DATABASE & MARKETPLACE
-Search Millions of Samples Across Multiple Networks all in one spot!
+A SAMPLE DATABASE & MARKETPLACE 
+ Search Millions of Samples Across Multiple Networks all in one spot!
 
 **What is the idea behind SampleX?**
 
