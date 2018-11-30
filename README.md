@@ -4,6 +4,9 @@ Vs 1.0 Deployment Date: TBD
 
 
 ## PROJECT PROPOSAL
+
+A SAMPLE DATABASE & MARKETPLACE - Millions of samples throughout multiple network all in one spot!
+
 **What is the idea behind SampleX?**
 
    You can instantly order toilet paper, so why not samples? It is a systematic approach to sending and receiving samples for    product development. This delivery method is specifically designed for sample parts to encourage faster innovation and end    product development. The faster the customer has a product, the faster they can sell to consumers and the faster they setup    ongoing bulk supply orders from suppliers. 
@@ -26,6 +29,7 @@ Vs 1.0 Deployment Date: TBD
        * 3M 
        * Exxon
        * Boston Scientific
+    * Universities
        * And many more….
 
 
@@ -100,7 +104,7 @@ Interviews were conducted with potiental users to understand what they want disp
 From user interviews and feedback, a few different use cases were discovered for displayed results:
    
    ```
-   User desires more producs from many different companies displayed
+   User desires more products from many different companies displayed
    
    ```
 
