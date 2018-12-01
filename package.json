@@ -1,0 +1,27 @@
+{
+  "name": "samplex",
+  "version": "1.0.0",
+  "description": "A SAMPLE DATABASE & MARKETPLACE",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Didi1081/SampleX.git"
+  },
+  "author": "Didi R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Didi1081/SampleX/issues"
+  },
+  "homepage": "https://github.com/Didi1081/SampleX#readme",
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "mysql2": "^1.6.4",
+    "sequelize": "^4.41.2"
+  }
+}
