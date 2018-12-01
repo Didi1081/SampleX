@@ -106,13 +106,26 @@ From user interviews and feedback, a few different use cases were discovered for
    
    ```
    User desires more products from many different companies displayed
-   
+  
    ```
+   
 
 ###### Discovery
-Currently, there are only 6 products generated on the app. This does not give Engineers and product developers enough information or options. In order to create a marketplace many different companies will need to participate. Engineers and product developers need a dynamic array of sample options to choose from. 
+   Currently, there are only 6 products generated on the app. This does not give Engineers and product developers enough          information or options. In order to create a marketplace many different companies will need to participate. Engineers and      product developers need a dynamic array of sample options to choose from. 
 
 ##### * DESIGN EXPLORATION
+
+There were two different ways to solve this problem. 
+
+1.) Web Data Extraction
+
+   * In order to provide users with more options, the possiblity of a third party Web Data Extraction came. That would take        public information/products from several company website. A variety of laws may apply to unauthorized scraping, including      contract, copyright and trespass to chattels laws. 
+
+   * If persuing this option then we need the consent from each company participating in our marketplace with a letter of web      conduct. 
+
+ 2. ) Open Source Individual Contribution
+ 
+   * Create a login for suppliers/contributors. They can then individually upload their product samples to the app. 
 
 ##### * FINAL SOLUTION
 
