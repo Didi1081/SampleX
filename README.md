@@ -121,14 +121,21 @@ I) Web Data Extraction
 
    * In order to provide users with more options, the possiblity of a third party Web Data Extraction came. That would take        public information/products from several company website. A variety of laws may apply to unauthorized scraping, including      contract, copyright and trespass to chattels laws. 
 
-   * If going with this option then we need the consent from each company participating in our marketplace with a letter of        conduct. 
+   * If going with this option then we need the consent from each company participating in our marketplace with a letter of        conduct and compliance with any legal obligations.
+   
+   * Prevent the Scraping of Sensitive Data
+   * Minimise the Extent of The Data Extraction
+   * Ensure Data Is Used For Legitimate Business Purposes Only
+   * Ensure The Correct Data Retention And Access Policies Are In Place
+   
    
 
  II ) Open Source Individual Contribution
  
    * Create a login for suppliers/contributors. Individuals can upload their product samples to the app. 
-   
- In both Web Data Extraction or Open Souce Individual Contributions, we will need to completely remove any data off the app if   the user or company needs the information taken off. 
+   * Ensure personal data storage is EU’s General Data Protection Regulation (GDPR) compliant.
+  
+In both Web Data Extraction or Open Souce Individual Contributions, we will need to completely remove any data off the app if  the user or company needs the information taken off. 
 
 ##### * FINAL SOLUTION
 
