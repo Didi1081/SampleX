@@ -123,10 +123,10 @@ I) Web Data Extraction
 
    * If going with this option then we need the consent from each company participating in our marketplace with a letter of        conduct and compliance with any legal obligations.
    
-   * Prevent the Scraping of Sensitive Data
-   * Minimise the Extent of The Data Extraction
-   * Ensure Data Is Used For Legitimate Business Purposes Only
-   * Ensure The Correct Data Retention And Access Policies Are In Place
+      * Prevent the Scraping of Sensitive Data
+      * Minimise the Extent of The Data Extraction
+      * Ensure Data Is Used For Legitimate Business Purposes Only
+      * Ensure The Correct Data Retention And Access Policies Are In Place
    
    
 
