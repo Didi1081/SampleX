@@ -119,9 +119,9 @@ There were two different ways to solve this problem.
 
 I) Web Data Extraction
 
-   * In order to provide users with more options, the possiblity of a third party Web Data Extraction came. That would take        public information/products from several company website. A variety of laws may apply to unauthorized scraping, including      contract, copyright and trespass to chattels laws. 
+   * In order to provide users with more options, there is a possiblity of third party Web Data Extraction. That would take        public information/products from several company website and generate it onto our app. A variety of laws may apply to          unauthorized scraping, including contract, copyright and trespass to chattels laws. 
 
-   * If going with this option then we need the consent from each company participating in our marketplace with a letter of        conduct and compliance with any legal obligations.
+   * If going with this option then we need documented consent from each company participating in our marketplace with a            letter of conduct and compliance with any legal obligations.
    
       * Prevent the Scraping of Sensitive Data
       * Minimise the Extent of The Data Extraction
@@ -132,12 +132,14 @@ I) Web Data Extraction
 
  II ) Open Source Individual Contribution
  
-   * Create a login for suppliers/contributors. Individuals can upload their product samples to the app. 
+   * Create a login for Suppliers/Contributors. Individuals can upload their product samples directly to the app. 
    * Ensure personal data storage is EU’s General Data Protection Regulation (GDPR) compliant.
   
 In both Web Data Extraction or Open Souce Individual Contributions, we will need to completely remove any data off the app if  the user or company needs the information taken off. 
 
 ##### * FINAL SOLUTION
+
+TBD
 
 #### 2.) Iteration II: Search Experience
 
@@ -161,5 +163,9 @@ There were no existing search filters, however users would like to filter by one
 
 ##### * DESIGN EXPLORATION
 
+TBD
+
 ##### * FINAL SOLUTION
+
+TBD
 
