@@ -129,10 +129,10 @@ I) Web Data Extraction
       * Ensure Data Is Used For Legitimate Business Purposes Only
       * Ensure The Correct Data Retention And Access Policies Are In Place
       
-      Use npm packages for webscraping - 
+     *Use npm packages for webscraping - 
       
-    ```npm install cheerio ``` (Opens the URL) 
-    ```npm install axios``` (Load the response data (HTML data) into cheerio and assign it to variable)
+    npm install cheerio  (Opens the URL) 
+    npm install axios (Load the response data (HTML data) into cheerio and assign it to variable)
     
 
  II ) Open Source Individual Contribution
