@@ -1,0 +1,12 @@
+.navBar {
+    height: 75px;
+    background-color:brown;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.navBar button {
+    height: 40px;
+    margin-right:60px;
+}
