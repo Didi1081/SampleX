@@ -5,11 +5,40 @@
   font-weight: normal;
   font-style: normal;
 }
-/* =======================================================
-*
-* 	Template Style 
-*
-* ======================================================= */
+
+/* for how it works page */
+img {
+  max-width: 100%;
+}
+
+.card-row {
+  display: flex;
+  margin: 0 auto;
+  width: 800px;
+  justify-content: space-between;
+  margin-top: 200px;
+}
+
+.card {
+  background: linear-gradient(#0E2232, #03070a);
+  border: 1px solid #1F122C;
+  border-radius: 0 0 4px 4px;
+  flex-basis: calc((100% / 3) - 20px);
+  position: relative;
+}
+.card__title {
+  font-size: 16px;
+  text-transform: uppercase;
+  color:White;
+}
+.card__body {
+  padding: 20px;
+}
+
+/* for how it works page */
+
+
+
 body {
   font-family: "Playfair Display", serif;
   font-weight: 400;
