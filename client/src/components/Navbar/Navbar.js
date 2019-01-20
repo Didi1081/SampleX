@@ -13,9 +13,10 @@ function Navbar (props) {
      <button >Login</button>
      </a>
    
-    </div>)
-
- 
+    </div>
+    
+    )
 }
 
 export default Navbar
+
