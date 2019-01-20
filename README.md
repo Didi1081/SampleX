@@ -1,6 +1,7 @@
 # SampleX 
 
 Vs 1.0 Deployment Date: Feb 4, 2019
+=======
 
 
 ## PROJECT PROPOSAL
@@ -106,15 +107,44 @@ From user interviews and feedback, a few different use cases were discovered for
    
    ```
    User desires more products from many different companies displayed
-   
+  
    ```
+   
 
 ###### Discovery
-Currently, there are only 6 products generated on the app. This does not give Engineers and product developers enough information or options. In order to create a marketplace many different companies will need to participate. Engineers and product developers need a dynamic array of sample options to choose from. 
+   Currently, there are only 6 products generated on the app. This does not give Engineers and product developers enough          information or options. In order to create a marketplace many different companies will need to participate. Engineers and      product developers need a dynamic array of sample options to choose from. 
 
 ##### * DESIGN EXPLORATION
 
+There were two different ways to solve this problem. 
+
+I) Web Data Extraction
+
+   * In order to provide users with more options, there is a possiblity of third party Web Data Extraction. That would take        public information/products from several company website and generate it onto our app. A variety of laws may apply to          unauthorized scraping, including contract, copyright and trespass to chattels laws. 
+
+   * If going with this option then we need documented consent from each company participating in our marketplace with a            letter of conduct and compliance with any legal obligations.
+   
+      * Prevent the Scraping of Sensitive Data
+      * Minimise the Extent of The Data Extraction
+      * Ensure Data Is Used For Legitimate Business Purposes Only
+      * Ensure The Correct Data Retention And Access Policies Are In Place
+      
+     *Use npm packages for webscraping - 
+      
+    npm install cheerio  (Opens the URL) 
+    npm install axios (Load the response data (HTML data) into cheerio and assign it to variable)
+    
+
+ II ) Open Source Individual Contribution
+ 
+   * Create a login for Suppliers/Contributors. Individuals can upload their product samples directly to the app. 
+   * Ensure personal data storage is EU’s General Data Protection Regulation (GDPR) compliant.
+  
+In both Web Data Extraction or Open Souce Individual Contributions, we will need to completely remove any data off the app if  the user or company needs the information taken off. 
+
 ##### * FINAL SOLUTION
+
+TBD
 
 #### 2.) Iteration II: Search Experience
 
@@ -138,5 +168,9 @@ There were no existing search filters, however users would like to filter by one
 
 ##### * DESIGN EXPLORATION
 
+TBD
+
 ##### * FINAL SOLUTION
+
+TBD
 
