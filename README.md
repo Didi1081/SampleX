@@ -1,7 +1,6 @@
 # SampleX 
 
-Vs 1.0 Deployment Date: Feb 4, 2019
-
+## Vs 1.0 Deployment Date: Feb 4, 2019
 
 ## PROJECT PROPOSAL
 
