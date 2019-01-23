@@ -329,3 +329,16 @@ function toggle(button) {
 
 
 }());
+
+
+// ----------------- our logic ---------------------
+
+function getProducts(){
+	$.get('/products', function(products){
+		console.log("These are our products")
+		//add the products to the page
+		// loop throughthe products and add to page
+	})
+}
+
+getProducts();
