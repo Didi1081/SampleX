@@ -333,12 +333,26 @@ function toggle(button) {
 
 // ----------------- our logic ---------------------
 
-function getProducts(){
-	$.get('/products', function(products){
-		console.log("These are our products")
+function getProducts() {
+	$.get('/products', function (products) {
+		console.log("this is our products");
 		//add the products to the page
-		// loop throughthe products and add to page
-	})
+
+		// loop through the products and add to page
+	});
 }
 
 getProducts();
+
+// Grab the articles as a json
+$(document).ready(function () {
+	$.getJSON("/products", function (data) {
+		// For each one
+		for (var i = 0; i < data.length; i++) {
+			// Display the apropos information on the page
+			$("#articles").append("<div><p data-id='" + data[i]._id + "'>" + data[i].title + "<br />" + data[i].link + "</p><button data-id=" + data[i]._id + " class=save> Save Article </button></div>"
+			);
+
+		}
+	});
+})

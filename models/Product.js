@@ -9,13 +9,13 @@ var ProductSchema = new Schema({
   // `title` is required and of type String
   name: {
     type: String,
-   
+
   },
   // `link` is required and of type String
   link: {
     type: String,
-  
-    
+
+
   },
 
 
