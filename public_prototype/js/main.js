@@ -329,3 +329,122 @@ function toggle(button) {
 
 
 }());
+
+
+// ----------------- our logic ---------------------
+
+// function getProducts() {
+// 	$.get('/products', function (products) {
+// 		console.log("this is our products");
+// 		//add the products to the page
+
+// 		// loop through the products and add to page
+// 	});
+// // }
+
+// getProducts();
+
+// // Grab the articles as a json
+// $(document).ready(function () {
+// 	$.getJSON("/products", function (data) {
+// 		// For each one
+// 		// for (var i = 0; i < data.length; i++) {
+// 		// 	// Display the apropos information on the page
+// 		// 	$("#articles").append("<div><p data-id='" + data[i]._id + "'>" + data[i].title + "<br />" + data[i].link + "</p><button data-id=" + data[i]._id + " class=save> Save Article </button></div>"
+// 		// 	);
+
+// 		// }
+// 		console.log(data);
+// 	});
+// })
+
+
+//              <div class="row">
+// 					<div class="col-md-4 text-center animate-box">
+// 					<div class="product">
+// 						<div class="product-grid" style="background-image:url(images/product-4.jpg);">
+// 							<div class="inner">
+// 			
+// 							</div>
+// 						</div>
+// // 							<div class="desc">
+// // 								<h3><a href="single.html">Product 2</a></h3>
+// // 								<p>
+// // 									<a href="#" class="btn btn-primary btn-outline">Product Data</a>
+// // 								</p>
+
+// // 								<!-- Our React component -->
+// // 								<div class="like_button_container" data-commentid="2"></div>
+// // 								<!-- <span class="price">$600</span> -->
+// // 							</div>
+// // 						</div>
+
+
+$.ajax({
+	method: "GET",
+	url: "/products"
+}).then(function (data) {
+	console.log(data);
+	data.forEach(e => {
+		$("#articles").append(`
+		<div class="col-md-4 thingy text-center">
+		 <div class="product">
+		  <div class="product-grid" style="background-image:url(images/product-33.png"> </div>
+		  <div class="inner">
+									<p>
+							        	<a href="single.html" class="icon"><i class="icon-shopping-cart"></i></a>
+										<a href="single.html" class="icon"><i class="icon-eye"></i></a>
+									</p>
+								</div>
+			  <div class="desc">			
+				<h3>${e.name}</h3>
+				<p data-id=${e._id}>
+					<a href=${e.link} class="btn btn-primary btn-outline" target="popup" >Product Data</a>
+					<a data-id="${e._id}" class="btn btn-primary btn-outline save"  >Add to Cart</a>
+				</p>
+				
+			  </div>
+			</div>
+		  </div>
+		</div>
+		`
+		);
+	});
+});
+
+
+
+$(document).on('click', '.save', function(){
+    var id = { _id: $(this).attr('data-id')}
+	console.log(id);
+	alert($($(this).attr('data-id')))
+    $.post('/save', id, function(data){
+        console.log(data, "this is the data");
+    })
+  })
+
+  function getSavedArticles(){
+    $('#saved').empty()
+    $.get('/saved', function(data){
+        for (var i = 0; i < data.length; i++) {
+            // Display the apropos information on the page
+            $("#saved").append("<div>  <p data-id='" + data[i]._id + "'>" + data[i].name + "</p><button data-id="+ data[i]._id +" class=delete> delete </button></div>"
+            );
+      
+          }
+    })
+}
+
+
+getSavedArticles()
+
+
+$(document).on('click', '.delete', function(){
+    var id = { _id: $(this).attr('data-id')}
+    console.log(id);
+    $.post('/delete', id, function(data){
+        console.log(data, "this is the data");
+        getSavedArticles()
+    })
+  })
+
