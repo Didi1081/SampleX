@@ -417,7 +417,7 @@ $.ajax({
 $(document).on('click', '.save', function(){
     var id = { _id: $(this).attr('data-id')}
 	console.log(id);
-	alert($($(this).attr('data-id')))
+	// alert($($(this).attr('data-id')))
     $.post('/save', id, function(data){
         console.log(data, "this is the data");
     })
@@ -428,7 +428,7 @@ $(document).on('click', '.save', function(){
     $.get('/saved', function(data){
         for (var i = 0; i < data.length; i++) {
             // Display the apropos information on the page
-            $("#saved").append("<div>  <p data-id='" + data[i]._id + "'>" + data[i].name + "</p><button data-id="+ data[i]._id +" class=delete> delete </button></div>"
+            $("#saved").append("<div>  <p data-id='" + data[i]._id + "'>" + data[i].name + "</p><button data-id="+ data[i]._id +" class= delete> delete </button></div>"
             );
       
           }
