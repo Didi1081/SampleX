@@ -2120,7 +2120,9 @@ background-color: #FF8566;
 }
 
 .delete {
-  color: blue;
+  color: rgba(206, 179, 111, 0.948);
+  background-color:white;
+  border: 2px solid rgba(206, 179, 111, 0.948);
 
 
 }
