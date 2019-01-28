@@ -17,6 +17,9 @@ var ProductSchema = new Schema({
 
 
   },
+  saved: {
+    type: Boolean
+  }
 
 
 });

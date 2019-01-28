@@ -6,12 +6,17 @@ var axios = require('axios');
 var models = require('./models');
 var app = express();
 var path = require('path');
+var bodyParser = require('body-parser');
 
 var PORT = process.env.PORT || 8000;
 
 app.use(express.static('public_prototype'));
 
 var MONGODB_URI = process.env.MONGODB_URI || "mongodb://localhost/SampleX";
+app.use(bodyParser.urlencoded({ extended: false }))
+ 
+// parse application/json
+app.use(bodyParser.json())
 
 mongoose.connect(MONGODB_URI, function(err) {
     if (err) throw err;
@@ -39,15 +44,14 @@ mongoose.connect(MONGODB_URI, function(err) {
 
 
 app.get('/', function(req,res){
-    res.sendFile(path.join(__dirname, '/public_prototype/index.html'))
-})
+    res.sendFile(path.join(__dirname, '/public_prototype/index.html'));
+});
 
 app.get('/products', function(req,res){
-    models.Product.find({}).then( (err, products) => {
-        console.log(products, "these are our products")
+    models.Product.find({}).then( (products) => {
         res.send(products);
-    })
-})
+    });
+});
 
 app.get('/scrape', function(req, res){
    
@@ -222,7 +226,22 @@ axios.all([
 
 
 
+app.post('/save', function(req, res){
+    console.log(req.body, "this should be id of product");
+    models.Product.findByIdAndUpdate( req.body._id, {saved: true})
+    .then(result => res.send("saved"));
+ 
+})
+app.get('/saved', function(req, res){
+    models.Product.find({saved: true}).then(result => res.send(result));
+})
 
+app.post('/delete', function(req, res){
+    console.log(req.body);
+    models.Product.findByIdAndUpdate( req.body._id, {saved: false})
+    .then(result => res.send("saved"));
+ 
+})
 
 
 

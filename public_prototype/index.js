@@ -1,35 +1,36 @@
 var json_data = {
- "name": " ",
+ "name": "X",
  "children": [
    {
     "name": "ExxonMobil",
     "free": true,
     "description": "Interactive authoring tools",
+    "url": "https://www.exxonmobilchemical.com/en/products-and-services/",
     "children": [
      {
-      "name": "Browser-based",
+      "name": "Polymers",
       "description": "Web-based 'cloud' applications for authoring data visualisations",
       "free": true,
       "children": [
        {
-        "name": "Datawrapper",
+        "name": "Butyl",
         "description": "An open-source platform for publishing charts on the web. Cloud-based or self-hosted.",
         "url": "https://datawrapper.de/",
         "free": true
        },
        {
-        "name": "Google Sheets",
+        "name": "EPDM rubber",
         "description": "Spreadsheet in the cloud with charting",
         "free": true
        },
        {
-        "name": "plotly",
+        "name": "Polyethylene",
         "description": "Cloud-based interactive tool for creating data visualisations",
         "url": "https://plot.ly/",
         "free": true
        },
        {
-        "name": "RAW",
+        "name": "Polymer modifiers",
         "description": "Open-source interactive tool for creating and exporting D3-like charts",
         "url": "http://raw.densitydesign.org/",
         "free": true
@@ -37,15 +38,15 @@ var json_data = {
       ]
      },
      {
-      "name": "Desktop",
+      "name": "Chemicals and fluids",
       "children": [
        {
-        "name": "Tableau Desktop",
+        "name": "Plasticizers",
         "description": "Powerful tool for data analytics and visualisation",
         "url": "http://www.tableausoftware.com/products/desktop"
        },
        {
-        "name": "Tableau Public",
+        "name": "Solvents",
         "description": "Free version of Tableau Desktop where charts are public",
         "url": "http://www.tableausoftware.com/products/public",
         "free": true
@@ -57,112 +58,113 @@ var json_data = {
    {
     "name": "3M Science",
     "description": "Code-based data visualisation creation",
+    "url": "https://www.3m.com/",
     "free": true,
     "children": [
      {
-      "name": "JavaScript",
+      "name": "Films",
       "description": "The language behind most (all?) browser-based data visualisations",
       "free": true,
       "children": [
        {
-        "name": "Charting libraries",
+        "name": "3M Automotive Films",
         "description": "Off-the-shelf pre-designed charts. Easy to use but less flexible.",
         "free": true,
         "children": [
          {
-          "name": "Google Charts",
-          "description": "A good selection of charts including bar, line, scatter, geo, pie, donut, org etc.",
-          "url": "https://developers.google.com/chart/",
+          "name": "3M™ Automotive Window Film Crystalline Series",
+          "description": "",
+          "url": "",
           "free": true
          },
          {
-          "name": "HighCharts",
-          "description": "A well maintained commercial library of commonly used chart types",
-          "url": "https://www.highcharts.com/"
+          "name": "3M™ Automotive Window Film Scotchshield™ Security Series",
+          "description": "",
+          "url": ""
          },
          {
-          "name": "InfoVis",
-          "description": "A lovely selection of charts including bar, pie, sunburst, icicle, network, trees etc.",
-          "url": "https://philogb.github.io/jit/",
+          "name": "3M™ Automotive Window Film Color Stable Series",
+          "description": "",
+          "url": "",
           "free": true
          },
          {
-          "name": "Mapping",
-          "description": "Libraries for visualising geographic data",
+          "name": "3M Automotive Window Tint",
+          "description": "",
           "free": true,
           "children": [
            {
-            "name": "Kartograph",
-            "description": "Lovely vector based mapping library with good browser support",
-            "url": "http://kartograph.org/",
+            "name": "3M™ Automotive Window Film Crystalline Series",
+            "description": "",
+            "url": "",
             "free": true
            },
            {
-            "name": "Leaflet",
-            "description": "Tile-based mapping library",
-            "url": "http://leafletjs.com/",
+            "name": "3M™ Automotive Window Film Scotchshield™ Security Series",
+            "description": "",
+            "url": "",
             "free": true
            }
           ]
          },
          {
-          "name": "MetricsGraphics.js",
-          "description": "Beautiful line, scatter and histogram charts built on top of D3",
-          "url": "http://metricsgraphicsjs.org/",
+          "name": "3M™ Automotive Window Film FX ST Series",
+          "description": "",
+          "url": "",
           "free": true
          },
          {
-          "name": "NVD3",
-          "description": "A general purpose charting library built on top of D3",
-          "url": "http://nvd3.org/",
+          "name": "3M™ Automotive Window Film FX Premium Series",
+          "description": "",
+          "url": "",
           "free": true
          },
          {
-          "name": "Sigma",
-          "description": "Library for visualising networks",
-          "url": "http://sigmajs.org/",
+          "name": "3M™ Paint Protection Film PUL2008, 10 mil, Transparent",
+          "description": "",
+          "url": "",
           "free": true
          }
         ]
        },
        {
-        "name": "Custom coded",
+        "name": "3M Electronics Films",
         "description": "For maximum flexibility, custom coding is the way to go. These libraries will lend a hand.",
         "free": true,
         "children": [
          {
-          "name": "D3",
-          "description": "The jewel in the crown of web-based data visualisation. A library packed full of components for building any data visualisation you can imagine.",
-          "url": "https://d3js.org/",
+          "name": "3M™ Contrast Enhancement Film CEF03A07L5",
+          "description": "",
+          "url": "",
           "free": true
          },
          {
-          "name": "Ractive",
-          "description": "Relatively new, Ractive helps you make your HTML and SVG interactive",
-          "url": "http://www.ractivejs.org/",
+          "name": "3M™ Anisotropic Conductive Film 5363",
+          "description": "",
+          "url": "",
           "free": true
          },
          {
-          "name": "Raphaël",
-          "description": "A general purpose drawing library with good browser support",
-          "url": "http://raphaeljs.com/",
+          "name": "3M™ Anisotropic Conductive Film 7303",
+          "description": "",
+          "url": "",
           "free": true
          },
          {
-          "name": "Snap.svg",
-          "description": "A modern version of Raphaël that supports modern browsers",
-          "url": "http://snapsvg.io/",
+          "name": "3M™ Contrast Enhancement Film CEF06xx",
+          "description": "",
+          "url": "",
           "free": true
          },
          {
-          "name": "Variance",
-          "description": "A declarative, mark-up based data visualisation library",
-          "url": "https://variancecharts.com/"
+          "name": "3M™ Anisotropic Conductive Film 7371",
+          "description": "",
+          "url": ""
          },
          {
-          "name": "Vega",
-          "description": "A declarative language for specifying data visualistions",
-          "url": "https://trifacta.github.io/vega/",
+          "name": "3M™ Contrast Enhancement Film CEF08A07",
+          "description": "",
+          "url": "",
           "free": true
          }
         ]
@@ -170,32 +172,32 @@ var json_data = {
       ]
      },
      {
-      "name": "Other",
-      "description": "Non-JavaScript languages for producing web-based data visualisations",
+      "name": "3M Paint Protection Films",
+      "description": "",
       "free": true,
       "children": [
        {
-        "name": "Python",
-        "description": "Python's a very popular language in data science and is a pleasant language to learn and use",
+        "name": "Scotchgard",
+        "description": "",
         "free": true,
         "children": [
          {
-          "name": "Bokeh",
-          "description": "A powerful tool for producing interactive plots, dashboards and data applications",
-          "url": "https://bokeh.pydata.org/",
+          "name": "Scotchgard™ Paint Protection Film Pro Series",
+          "description": "",
+          "url": "",
           "free": true
          }
         ]
        },
        {
-        "name": "R",
-        "description": "Very popular language for data science",
+        "name": "3M Window Films",
+        "description": "",
         "free": true,
         "children": [
          {
-          "name": "Shiny",
-          "description": "A platform for producing web applications using R",
-          "url": "http://shiny.rstudio.com/",
+          "name": "Residential Window Film",
+          "description": "",
+          "url": "",
           "free": true
          }
         ]
