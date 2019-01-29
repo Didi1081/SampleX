@@ -54,6 +54,7 @@ app.get('/products', function(req,res){
 });
 
 app.get('/scrape', function(req, res){
+    
    
 axios.all([
 
@@ -220,10 +221,8 @@ axios.all([
 
 }));
 
-    res.send('scrape complete');
+    res.send('You got a bunch of cool products! Go back to the Home page and then Product page!');
 });
-
-
 
 
 app.post('/save', function(req, res){
@@ -242,9 +241,6 @@ app.post('/delete', function(req, res){
     .then(result => res.send("saved"));
  
 })
-
-
-
 
 app.listen(PORT, function(){
     console.log('listening on port '  + PORT)
