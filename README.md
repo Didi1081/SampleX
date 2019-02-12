@@ -84,10 +84,15 @@ Product Developer Page - Checkout/Submission
 ![](ReadME_img/FW4.png)
 
 ## BUILT UTILIZING
-* Bootstrap v4 - https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css 
-* Material Design for Bootstrap 4 - https://mdbootstrap.com/material-design-for-bootstrap/ 
-* jQuery 3.x - http://code.jquery.com/jquery-3.3.1.min.js
-
+* Bootstrap
+* jQuery 
+* React Components
+* No SQL - MongoDB
+* Express
+* Node.js
+* D3.js
+* Cheerio
+* Axios
 
 ## CASE STUDY
 

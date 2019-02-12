@@ -428,7 +428,7 @@ function getSavedArticles() {
 	$.get('/saved', function (data) {
 		for (var i = 0; i < data.length; i++) {
 			// Display the apropos information on the page
-			$("#saved").append("<div>  <p data-id='" + data[i]._id + "'>" + data[i].name + "</p><button data-id=" + data[i]._id + " class= delete> Delete Item </button></div>"
+			$("#saved").append("<div>  <p data-id='" + data[i]._id + "'>" + data[i].name + "</p><button data-id=" + data[i]._id + " class= delete> Delete Item </button> <br> <a href='mailto: ddapp108@gmail.com'>Email</a></div>"
 			);
 
 		}
