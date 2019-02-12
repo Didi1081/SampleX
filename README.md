@@ -61,6 +61,37 @@ A SAMPLE DATABASE & MARKETPLACE
    * Customers see new product applications and development from suppliers that can inspire innovation or solve problems. They have access to this information easily.
    * Easy to send feedback
    * Easy to collect feedback through data collection sheet
+   
+## Prototype
+Home Page
+![](https://github.com/Didi1081/SampleX/blob/master/ReadME_img/Demo1.png)
+
+Product Selector Dynamic Tree Schema
+![](https://github.com/Didi1081/SampleX/blob/master/ReadME_img/Demo2.png)
+
+Sponsored Products (Dow) 
+![](https://github.com/Didi1081/SampleX/blob/master/ReadME_img/Demo3.png)
+
+Sponsored Product Data Sheet 
+![](https://github.com/Didi1081/SampleX/blob/master/ReadME_img/Demo4.png)
+
+Featured Products/Companies (Exxon, 3M, Dow)
+![](https://github.com/Didi1081/SampleX/blob/master/ReadME_img/Demo5.png)
+
+Product Selector Bot
+![](https://github.com/Didi1081/SampleX/blob/master/ReadME_img/Demo6.png)
+
+Top 50 Chemical Companies in USA
+![](https://github.com/Didi1081/SampleX/blob/master/ReadME_img/Demo7.png)
+![](https://github.com/Didi1081/SampleX/blob/master/ReadME_img/Demo8.png)
+![](https://github.com/Didi1081/SampleX/blob/master/ReadME_img/Demo9.png)
+
+Login - Terms and Conditions
+![](https://github.com/Didi1081/SampleX/blob/master/ReadME_img/Demo10.png)
+
+Shopping Cart
+![](https://github.com/Didi1081/SampleX/blob/master/ReadME_img/Demo11.png)
+
 
 ## ROUGH SKETCH
 
