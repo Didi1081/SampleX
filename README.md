@@ -149,7 +149,11 @@ In both Web Data Extraction or Open Souce Individual Contributions, we will need
 
 ##### * FINAL SOLUTION
 
-TBD
+In order to give the end user millions of choices of samples/products we have extracted data from 50 of top Chemical Companies in the USA. There are currently 10,000 products and soon to be over 100,000 and 1,000,000 products for product developers to choose from. We are using a NoSQL database (MongoDB) to store and manipulate the 10,000+ lines of data. 
+
+![](https://github.com/Didi1081/SampleX/blob/master/ReadME_img/Smp1.png)
+![](https://github.com/Didi1081/SampleX/blob/master/ReadME_img/Smp2.png)
+
 
 #### 2.) Iteration II: Search Experience
 
@@ -173,7 +177,13 @@ There were no existing search filters, however users would like to filter by one
 
 ##### * DESIGN EXPLORATION
 
-TBD
+With millions of products to choose from, search filters and categories will be critical to find exactly what is needed. Some very good examples of sorting through data is exxonmobil's new release of the Digital Product Selector as seen below. 
+
+![](https://github.com/Didi1081/SampleX/blob/master/ReadME_img/Digital%20Product%20Selector%20copy.gif)
+![](https://github.com/Didi1081/SampleX/blob/master/ReadME_img/Digital%20Product%20Selector.gif)
+![](https://github.com/Didi1081/SampleX/blob/master/ReadME_img/exxon1.png)
+![](https://github.com/Didi1081/SampleX/blob/master/ReadME_img/exxon2.png)
+![](https://github.com/Didi1081/SampleX/blob/master/ReadME_img/exxon3.png)
 
 ##### * FINAL SOLUTION
 
