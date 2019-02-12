@@ -149,7 +149,9 @@ In both Web Data Extraction or Open Souce Individual Contributions, we will need
 
 ##### * FINAL SOLUTION
 
-TBD
+![](https://github.com/Didi1081/SampleX/blob/master/ReadME_img/Smp1.png)
+![](https://github.com/Didi1081/SampleX/blob/master/ReadME_img/Smp2.png)
+
 
 #### 2.) Iteration II: Search Experience
 
@@ -173,7 +175,12 @@ There were no existing search filters, however users would like to filter by one
 
 ##### * DESIGN EXPLORATION
 
-TBD
+
+![](https://github.com/Didi1081/SampleX/blob/master/ReadME_img/Digital%20Product%20Selector%20copy.gif)
+![](https://github.com/Didi1081/SampleX/blob/master/ReadME_img/Digital%20Product%20Selector.gif)
+![](https://github.com/Didi1081/SampleX/blob/master/ReadME_img/exxon1.png)
+![](https://github.com/Didi1081/SampleX/blob/master/ReadME_img/exxon2.png)
+![](https://github.com/Didi1081/SampleX/blob/master/ReadME_img/exxon3.png)
 
 ##### * FINAL SOLUTION
 
